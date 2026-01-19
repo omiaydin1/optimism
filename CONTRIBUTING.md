@@ -2,6 +2,7 @@
 
 ## What to Contribute
 
+
 Welcome to the Optimism Monorepo Contributing Guide!
 If you're reading this then you might be interested in contributing to the Optimism Monorepo.
 Before diving into the specifics of this repository, you might be interested in taking a quick look at just a few of the ways that you can contribute.
